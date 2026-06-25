@@ -2,7 +2,7 @@
   "schema": 1,
   "minVersion": 1,
   "latestVersion": 1,
-  "apkUrl": "",
+  "apkUrl": "https://github.com/mereutsa-bowl/pintest-dist/releases/download/v1/pintest-1.apk",
   "default": "denied",
   "updatedAt": "2026-06-25",
   "devices": {
