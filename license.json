@@ -4,6 +4,12 @@
   "latestVersion": 1,
   "apkUrl": "",
   "default": "denied",
-  "updatedAt": "2026-06-24",
-  "devices": {}
+  "updatedAt": "2026-06-25",
+  "devices": {
+    "V6T2-M4V6": {
+      "status": "active",
+      "until": "2026-12-31",
+      "label": "emu-test"
+    }
+  }
 }
