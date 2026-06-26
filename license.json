@@ -4,12 +4,17 @@
   "latestVersion": 1,
   "apkUrl": "https://github.com/mereutsa-bowl/pintest-dist/releases/download/v1/pintest-1.apk",
   "default": "denied",
-  "updatedAt": "2026-06-25",
+  "updatedAt": "2026-06-26",
   "devices": {
     "V6T2-M4V6": {
       "status": "active",
       "until": "2026-12-31",
       "label": "emu-test"
+    },
+    "D6AV-EVHV": {
+      "status": "active",
+      "until": "2026-12-31",
+      "label": "Евгений"
     }
   }
 }
