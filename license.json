@@ -4,7 +4,7 @@
   "latestVersion": 1,
   "apkUrl": "https://github.com/mereutsa-bowl/pintest-dist/releases/download/v1/pintest-1.apk",
   "default": "denied",
-  "updatedAt": "2026-06-27",
+  "updatedAt": "2026-06-29",
   "devices": {
     "V6T2-M4V6": {
       "status": "active",
@@ -30,6 +30,11 @@
       "status": "active",
       "until": "2026-08-01",
       "label": "Александр Кибец"
+    },
+    "GXMM-TKNZ": {
+      "status": "active",
+      "until": "2026-08-01",
+      "label": "Михаил Осипенко"
     }
   }
 }
