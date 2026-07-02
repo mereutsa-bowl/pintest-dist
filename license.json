@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "minVersion": 1,
-  "latestVersion": 181,
-  "apkUrl": "https://github.com/mereutsa-bowl/pintest-dist/releases/download/v181/pintest-181.apk",
+  "latestVersion": 182,
+  "apkUrl": "https://github.com/mereutsa-bowl/pintest-dist/releases/download/v182/pintest-182.apk",
   "default": "denied",
   "updatedAt": "2026-07-02",
   "devices": {
