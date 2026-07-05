@@ -40,6 +40,11 @@
       "status": "active",
       "until": "2026-08-01",
       "label": "Алексей Чернов"
+    },
+    "P7HB-2AZE": {
+      "status": "active",
+      "until": "2026-08-01",
+      "label": "jerusalem debug emulator"
     }
   }
 }
