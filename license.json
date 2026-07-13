@@ -45,6 +45,11 @@
       "status": "active",
       "until": "2026-08-01",
       "label": "jerusalem debug emulator"
+    },
+    "K2NN-ZDSY": {
+      "status": "active",
+      "until": "2026-12-31",
+      "label": "desk acceptance emulator"
     }
   }
 }
