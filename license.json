@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "minVersion": 210,
- "latestVersion": 253,
- "apkUrl": "https://github.com/mereutsa-bowl/pintest-dist/releases/download/v253/pintest-253.apk",
+ "latestVersion": 255,
+ "apkUrl": "https://github.com/mereutsa-bowl/pintest-dist/releases/download/v255/pintest-255.apk",
  "default": "denied",
- "updatedAt": "2026-07-13",
+ "updatedAt": "2026-07-16",
  "devices": {
   "V6T2-M4V6": {
    "status": "active",
