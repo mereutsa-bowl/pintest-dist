@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "minVersion": 210,
-  "latestVersion": 317,
-  "apkUrl": "https://github.com/mereutsa-bowl/pintest-dist/releases/download/v317/pintest-317.apk",
+  "latestVersion": 322,
+  "apkUrl": "https://github.com/mereutsa-bowl/pintest-dist/releases/download/v322/pintest-322.apk",
   "default": "denied",
   "updatedAt": "2026-08-20",
   "devices": {
