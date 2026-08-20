@@ -50,6 +50,11 @@
       "status": "active",
       "until": "2026-12-31",
       "label": "emu-03"
+    },
+    "GHF1-M63X": {
+      "status": "active",
+      "until": "2026-12-31",
+      "label": "emu-desk"
     }
   }
 }
