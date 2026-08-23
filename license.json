@@ -60,6 +60,11 @@
       "status": "active",
       "until": "2026-08-30",
       "label": "Jerusalem Samsung physical acceptance"
+    },
+    "H2CX-KQVN": {
+      "status": "active",
+      "until": "2026-08-30",
+      "label": "Jerusalem Pixel 7 emulator acceptance"
     }
   }
 }
