@@ -4,7 +4,7 @@
   "latestVersion": 322,
   "apkUrl": "https://github.com/mereutsa-bowl/pintest-dist/releases/download/v322/pintest-322.apk",
   "default": "denied",
-  "updatedAt": "2026-08-23",
+  "updatedAt": "2026-09-06",
   "devices": {
     "V6T2-M4V6": {
       "status": "active",
@@ -58,7 +58,7 @@
     },
     "PSJ9-KEP9": {
       "status": "active",
-      "until": "2026-08-30",
+      "until": "2026-12-31",
       "label": "Jerusalem Samsung physical acceptance"
     },
     "H2CX-KQVN": {
