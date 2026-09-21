@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "minVersion": 210,
-  "latestVersion": 349,
-  "apkUrl": "https://github.com/mereutsa-bowl/pintest-dist/releases/download/v349/pintest-349.apk",
+  "minVersion": 354,
+  "latestVersion": 354,
+  "apkUrl": "https://smartbowling.ru/downloads/pintest-354.apk",
   "default": "denied",
-  "updatedAt": "2026-09-09",
+  "updatedAt": "2026-09-21",
   "devices": {
     "V6T2-M4V6": {
       "status": "active",
@@ -18,27 +18,27 @@
     },
     "FYEV-VJDJ": {
       "status": "active",
-      "until": "2026-08-15",
+      "until": "2026-12-31",
       "label": "mech-01"
     },
     "8048-GM3D": {
       "status": "active",
-      "until": "2026-08-15",
+      "until": "2026-12-31",
       "label": "mech-02"
     },
     "M9B3-0M6V": {
       "status": "active",
-      "until": "2026-08-15",
+      "until": "2026-12-31",
       "label": "mech-03"
     },
     "GXMM-TKNZ": {
       "status": "active",
-      "until": "2026-08-15",
+      "until": "2026-12-31",
       "label": "mech-04"
     },
     "7KGZ-NW5V": {
       "status": "active",
-      "until": "2026-08-15",
+      "until": "2026-12-31",
       "label": "mech-05"
     },
     "P7HB-2AZE": {
